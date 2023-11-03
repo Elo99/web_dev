@@ -1,0 +1,42 @@
+.Main {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.tweet {
+  background: #fff;
+  border: 1px solid #e1e8ed;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.timestamp {
+  color: #6a737d;
+  font-size: 12px;
+}
+
+.reply {
+  background: #f5f8fa;
+  border: 1px solid #e1e8ed;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+form {
+  margin-top: 10px;
+}
